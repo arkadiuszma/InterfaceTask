@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Boat {
+public class Boat extends Vehicle {
+
+    public Boat(int maxSpeed) {
+        super(maxSpeed);
+    }
 }

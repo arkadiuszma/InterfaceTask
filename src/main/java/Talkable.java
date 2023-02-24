@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Talkable {
+public interface Talkable {
+    void sayHello(String name);
 }

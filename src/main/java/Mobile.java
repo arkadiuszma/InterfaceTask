@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Mobile {
+public interface Mobile {
+    void move();
 }
